@@ -1,0 +1,18 @@
+{
+  "payload": {
+    "alias": "McLaren",
+    "source": "Site",
+    "network": "McLaren",
+    "variables": {
+      "page_title": "McLaren",
+      "primary": "#FF8000",
+      "secondary": "#000000",
+      "background": "#ffffff",
+      "text": "#ffffff",
+      "text-secondary": "#000000",
+      "link": "#FF8000",
+      "image": "https://images.unsplash.com/photo-1508974576580-36a2f92ad3bc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "icon": "https://logos-world.net/wp-content/uploads/2021/10/McLaren-Logo.png"
+    }
+  }
+}

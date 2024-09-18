@@ -1,0 +1,18 @@
+{
+  "payload": {
+    "alias": "Lamborghini",
+    "source": "Site",
+    "network": "Lamborghini",
+    "variables": {
+      "page_title": "Lamborghini",
+      "primary": "#d8a016",
+      "secondary": "#000000",
+      "background": "#ffffff",
+      "text": "#ffffff",
+      "text-secondary": "#000000",
+      "link": "#d8a016",
+      "image": "https://images.unsplash.com/photo-1516515429572-bf32372f2409?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/1200px-Lamborghini_Logo.svg.png"
+    }
+  }
+}
